@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PostService.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="LobApiKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">test_f321dd476fd7b193d3d169adbbbeb7f6525</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
